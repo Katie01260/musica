@@ -1,6 +1,6 @@
 <?php
 //para iniciar la base de datos
-   define('DB_SERVER', 'localhost');
+   define('DB_SERVER', '10.130.4.15');
    define('DB_USERNAME', 'root');
    define('DB_PASSWORD', 'rootroot');
    define('DB_DATABASE', 'musica');
